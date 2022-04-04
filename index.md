@@ -7,4 +7,4 @@ layout: home
 
 Welcome to My Home Page
 
-## Hello Dana and Monaaz :) :) :) :)
+## Hello Jenny and Spen :) :) :) :)
